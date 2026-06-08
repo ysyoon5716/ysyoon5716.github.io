@@ -2,7 +2,6 @@
 title: Zotero에서 랜덤 아이템 선택하는 플러그인 개발
 description: Zotero에서 전체 라이브러리나 컬렉션에서 랜덤하게 아이템을 선택하는 플러그인 개발
 pubDatetime: 2026-06-06T00:00:00+09:00
-slug: zotero-random-item-selector
 tags:
   - software
 ---

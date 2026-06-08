@@ -2,7 +2,6 @@
 title: MuJoCo Franka Panda Pick-and-Place 데모
 description: MuJoCo 환경에서 Franka Emika Panda가 클릭한 위치로 박스를 pick and place 하는 데모
 pubDatetime: 2026-06-03T00:00:00+09:00
-slug: mujoco-franka-panda-pick-and-place-demo
 tags:
   - robotics
 ---
