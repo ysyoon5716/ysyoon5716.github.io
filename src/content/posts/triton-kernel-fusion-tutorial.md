@@ -2,7 +2,8 @@
 title: Triton으로 Kernel Fusion 해보기
 description: Triton을 사용해서 LayerNorm + GELU 커널을 융합해 보자
 pubDatetime: 2026-06-08T00:00:00
-tags: gpu
+tags: 
+    - gpu
 ---
 ## 1. 서론
 
