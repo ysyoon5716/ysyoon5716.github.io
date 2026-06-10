@@ -35,5 +35,5 @@ PyTorch Eager, `torch.compile` 방법과 속도/메모리 비교 진행
 - 메모리: Eager 대비 peak memory 50% 절약
 
 
-![](https://ysyoon-obsidian-images.s3.ap-northeast-2.amazonaws.com/2026060811132206.png)
-![](https://ysyoon-obsidian-images.s3.ap-northeast-2.amazonaws.com/2026060811154492.png)
+![](../../assets/images/triton-kernel-fusion-tutorial-1.png)
+![](../../assets/images/triton-kernel-fusion-tutorial-2.png)
